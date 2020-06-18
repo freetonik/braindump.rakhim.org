@@ -3,11 +3,21 @@
     <div class="content">
         {{ .Content }}
 
+        <ul>
         {{ range .Site.RegularPages }}
         <li>
             <a href="{{.Permalink}}">{{.Title}}</a>
         </li>
         {{ end }}
+        </ul>
+
+        <p>
+            Credits:
+            <ul>
+                <li>Icon by <a href="https://www.flaticon.com/free-icon/brainstorm_1420825" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
+                <li><a href="https://github.com/jethrokuan/cortex">Cortex Theme</a> by Jethro Kuan</li>
+            </ul>
+        </p>
     </div>
 </div>
 {{end}}

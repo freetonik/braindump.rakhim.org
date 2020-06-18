@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "Rakhim's Braindump Index"
 author = ["Rakhim Davletaliyev"]
 type = "index"
 draft = false

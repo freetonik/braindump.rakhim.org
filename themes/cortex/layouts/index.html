@@ -1,0 +1,13 @@
+{{define "main"}}
+<div class="page" data-uuid="{{ .File.UniqueID }}" data-level="1">
+    <div class="content">
+        {{ .Content }}
+
+        {{ range .Site.RegularPages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+        {{ end }}
+    </div>
+</div>
+{{end}}

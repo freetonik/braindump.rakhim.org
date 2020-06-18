@@ -1,0 +1,11 @@
+{{define "main"}}
+<div class="grid-container">
+<div class="grid">
+        {{ partial "page.html" . }}
+</div>
+</div>
+{{ $urijs := resources.Get "js/URI.js" }}
+<script src="{{$urijs.Permalink}}" type="text/javascript"></script>
+{{ $pagejs := resources.Get "js/page.js" }}
+<script src="{{$pagejs.Permalink}}" type="text/javascript"></script>
+{{end}}

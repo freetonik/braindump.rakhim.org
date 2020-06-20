@@ -1,7 +1,7 @@
 +++
 title = "Ghost"
 author = ["Rakhim Davketkaliyev"]
-lastmod = 2020-06-18T11:15:21+03:00
+lastmod = 2020-06-19T13:14:40+03:00
 slug = "ghost"
 draft = false
 +++
@@ -113,3 +113,8 @@ location / {
 -   [Nginx Caching](https://serversforhackers.com/c/nginx-caching)
 -   [Caching Ghost with Nginx](https://scotthelme.co.uk/caching-ghost-with-nginx/)
 -   [Caching Ghost with Nginx (Stanislas)](https://stanislas.blog/2019/08/ghost-nginx-cache/)
+
+
+## Theme development {#theme-development}
+
+-   [Deploy theme via Github workflows](https://github.com/TryGhost/action-deploy-theme)

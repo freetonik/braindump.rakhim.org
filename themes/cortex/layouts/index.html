@@ -6,7 +6,7 @@
         <ul>
         {{ range .Site.RegularPages }}
         <li>
-            <a href="{{.Permalink}}">{{.Title}}</a>
+            <a href="{{.Permalink}}" data-level="1" aria-expanded="false">{{.Title}}</a>
         </li>
         {{ end }}
         </ul>

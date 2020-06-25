@@ -3,6 +3,7 @@ title = "Org mode"
 +++
 
 
+Extension of [Emacs]({{< ref "Emacs" >}}).
 
 ## Articles
 

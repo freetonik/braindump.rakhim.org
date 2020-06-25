@@ -5,26 +5,26 @@ title = "Electric symbols in Finland"
 
 Electric symbols used in Finland for house construction plans ([Electric Circuits]({{< ref "Electric Circuits" >}})).
 
-![Electric-symbols-1](/notes/attachments/Electric-symbols-1.png)
+![Electric-symbols-1](/notes/attachments/Electric-symbols-1.jpeg)
 
-![Electric-symbols-2](/notes/attachments/Electric-symbols-2.png)
+![Electric-symbols-2](/notes/attachments/Electric-symbols-2.jpeg)
 
-![Electric-symbols-3](/notes/attachments/Electric-symbols-3.png)
+![Electric-symbols-3](/notes/attachments/Electric-symbols-3.jpeg)
 
-![Electric-symbols-4](/notes/attachments/Electric-symbols-4.png)
+![Electric-symbols-4](/notes/attachments/Electric-symbols-4.jpeg)
 
-![Electric-symbols-5](/notes/attachments/Electric-symbols-5.png)
+![Electric-symbols-5](/notes/attachments/Electric-symbols-5.jpeg)
 
-![Electric-symbols-6](/notes/attachments/Electric-symbols-6.png)
+![Electric-symbols-6](/notes/attachments/Electric-symbols-6.jpeg)
 
-![Electric-symbols-7](/notes/attachments/Electric-symbols-7.png)
+![Electric-symbols-7](/notes/attachments/Electric-symbols-7.jpeg)
 
-![Electric-symbols-8](/notes/attachments/Electric-symbols-8.png)
+![Electric-symbols-8](/notes/attachments/Electric-symbols-8.jpeg)
 
-![Electric-symbols-9](/notes/attachments/Electric-symbols-9.png)
+![Electric-symbols-9](/notes/attachments/Electric-symbols-9.jpeg)
 
-![Electric-symbols-10](/notes/attachments/Electric-symbols-10.png)
+![Electric-symbols-10](/notes/attachments/Electric-symbols-10.jpeg)
 
-![Electric-symbols-11](/notes/attachments/Electric-symbols-11.png)
+![Electric-symbols-11](/notes/attachments/Electric-symbols-11.jpeg)
 
-![Electric-symbols-12](/notes/attachments/Electric-symbols-12.png)
+![Electric-symbols-12](/notes/attachments/Electric-symbols-12.jpeg)

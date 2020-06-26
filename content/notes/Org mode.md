@@ -15,4 +15,6 @@ Extension of [Emacs]({{< ref "Emacs" >}}).
 ## Backlinks
 * [Org Roam]({{< ref "Org Roam" >}})
 	* Org roam is an extension to [Org mode]({{< ref "Org mode" >}}) inspired by Roam.
+* [Knowledge management]({{< ref "Knowledge management" >}})
+	* [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, org/markdown/txt.
 

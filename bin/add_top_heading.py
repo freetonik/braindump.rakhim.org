@@ -27,6 +27,6 @@ def main(argv):
 			counter +=1
 
 	print("Done. Processed " + str(counter) + " files.")
-		
+
 if __name__ == "__main__":
    main(sys.argv[1:])

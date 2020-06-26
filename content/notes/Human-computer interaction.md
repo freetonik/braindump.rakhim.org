@@ -7,6 +7,7 @@ Human–computer interaction (HCI) studies the design and use of computer techno
 
 
 
+---
 ## Backlinks
 * [The GUI should be better]({{< ref "The GUI should be better" >}})
 	* A video rant about desktop OS (mainly windows) and [Human-computer interaction]({{< ref "Human-computer interaction" >}}): [https://www.youtube.com/watch?v=AItTqnTsVjA](https://www.youtube.com/watch?v=AItTqnTsVjA)

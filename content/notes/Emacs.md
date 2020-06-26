@@ -21,6 +21,7 @@ title = "Emacs"
 ## Themes
 - [Fluc UI](https://github.com/MetroWind/flucui-theme)
 
+---
 ## Backlinks
 * [Org mode]({{< ref "Org mode" >}})
 	* Extension of [Emacs]({{< ref "Emacs" >}}).

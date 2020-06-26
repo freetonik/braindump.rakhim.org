@@ -1,4 +1,4 @@
-baseURL = "https://braindump-flow.rakhim.org/"
+baseURL = "https://braindump.rakhim.org/"
 languageCode = "en-us"
 title = "Rakhim's Braindump"
 theme = "cortex"

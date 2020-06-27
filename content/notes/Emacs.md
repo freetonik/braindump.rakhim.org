@@ -25,8 +25,8 @@ title = "Emacs"
 ## Backlinks
 * [Org mode]({{< ref "Org mode" >}})
 	* Extension of [Emacs]({{< ref "Emacs" >}}).
-* [Doom Emacs]({{< ref "Doom Emacs" >}})
-	* A distribution of [Emacs]({{< ref "Emacs" >}}) powered by Evil mode.
 * [Knowledge management]({{< ref "Knowledge management" >}})
 	* [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, org/markdown/txt.
+* [Doom Emacs]({{< ref "Doom Emacs" >}})
+	* A distribution of [Emacs]({{< ref "Emacs" >}}) powered by Evil mode.
 

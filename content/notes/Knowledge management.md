@@ -12,9 +12,7 @@ title = "Knowledge management"
 - [Zelltr](https://zettlr.com/)
 
 ### Proprietary
-- [Obsidian](https://obsidian.md/). The one I'm currently using. Good UI, markdown, backlinks, graph, cross platform.
-	- [Forum](https://forum.obsidian.md/)
-	- [HN Discussion](https://news.ycombinator.com/item?id=23324598)
+- [Obsidian]({{< ref "Obsidian" >}})
 - [Roam](https://roamresearch.com/). Web. Closed source. Paid. Backlinks.
 - [DevonThink](https://www.devontechnologies.com/apps/devonthink). Proprietary. macOS + iOS only.
 - [Emvi](https://emvi.com/).
@@ -28,3 +26,9 @@ title = "Knowledge management"
 
 
 See also [Public knowledge bases]({{< ref "Public knowledge bases" >}}).
+
+---
+## Backlinks
+* [Obsidian]({{< ref "Obsidian" >}})
+	* Obsidian is a [Knowledge management]({{< ref "Knowledge management" >}}) software I'm currently using. Good UI, markdown, backlinks, graph, cross platform.
+

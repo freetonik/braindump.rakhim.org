@@ -5,19 +5,19 @@ title = "Knowledge management"
 
 ## Applications
 ### Open source
-- [Foam](https://foambubble.github.io/foam/). On top of VS Code. Backlinks, graph, markdown.
-- [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, org/markdown/txt.
+- [Foam](https://foambubble.github.io/foam/). On top of VS Code. Backlinks, graph, [Markdown]({{< ref "Markdown" >}}).
+- [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
 - [Tiddlywiki](https://tiddlywiki.com/)
-- [Trillium](https://github.com/zadam/trilium)
-- [Zelltr](https://zettlr.com/)
+- [Trillium](https://github.com/zadam/trilium). [Markdown]({{< ref "Markdown" >}}).
+- [Zelltr](https://zettlr.com/). [Markdown]({{< ref "Markdown" >}}).
 
 ### Proprietary
-- [Obsidian]({{< ref "Obsidian" >}})
-- [Roam](https://roamresearch.com/). Web. Closed source. Paid. Backlinks.
+- [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})
+- [Roam](https://roamresearch.com/). Web. Closed source. Paid. Backlinks. [Markdown]({{< ref "Markdown" >}})
 - [DevonThink](https://www.devontechnologies.com/apps/devonthink). Proprietary. macOS + iOS only.
 - [Emvi](https://emvi.com/).
 - [Supernotes](https://supernotes.app/)
-- [Notion](https://www.notion.so/)
+- [Notion](https://www.notion.so/). [Markdown]({{< ref "Markdown" >}})
 
 ## Resources
 - [Zettelkasten](https://zettelkasten.de/)

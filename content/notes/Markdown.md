@@ -1,0 +1,21 @@
++++
+title = "Markdown"
++++
+
+
+## Apps and utilities
+- [Markdown Service Tools - BrettTerpstra.com](https://brettterpstra.com/projects/markdown-service-tools/)
+	- The Markdown Service Tools are a collection of OS X Services designed to make writing Markdown text that much easier. Services (also known as Quick Actions) work in any Cocoa-based application (which is most of the apps on your Mac). The Services are prefixed with “md” to keep them grouped in the Services menu that shows up when you right click in a text field or editor. You can assign your own keyboard shortcuts (see the last section of this document) to make accessing them more convenient.
+- [Marked 2 - Smarter tools for smarter writers](https://marked2app.com/)
+
+---
+## Backlinks
+* [Knowledge management]({{< ref "Knowledge management" >}})
+	* [Foam](https://foambubble.github.io/foam/). On top of VS Code. Backlinks, graph, [Markdown]({{< ref "Markdown" >}}).
+	* [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
+	* [Trillium](https://github.com/zadam/trilium). [Markdown]({{< ref "Markdown" >}}).
+	* [Zelltr](https://zettlr.com/). [Markdown]({{< ref "Markdown" >}}).
+	* [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})
+	* [Roam](https://roamresearch.com/). Web. Closed source. Paid. Backlinks. [Markdown]({{< ref "Markdown" >}})
+	* [Notion](https://www.notion.so/). [Markdown]({{< ref "Markdown" >}})
+

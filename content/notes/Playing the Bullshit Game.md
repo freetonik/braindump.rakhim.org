@@ -15,4 +15,4 @@ Bullshit is a ‘discourse which is created, circulated and consumed with little
 
 I will argue that bullshitting is triggered by a speech community with many conceptual entrepreneurs, significant amounts of noisy ignorance and permissive uncertainty. These conditions are likely to spark the language game of bullshitting.
 
-[2631787720929704](/notes/attachments/2631787720929704.pdf)
+[Playing-the-Bullshit-Game](/notes/attachments/Playing-the-Bullshit-Game.pdf)

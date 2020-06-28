@@ -15,5 +15,5 @@ Obsidian is a [Knowledge management]({{< ref "Knowledge management" >}}) softwar
 ---
 ## Backlinks
 * [Knowledge management]({{< ref "Knowledge management" >}})
-	* [Obsidian]({{< ref "Obsidian" >}})
+	* [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})
 

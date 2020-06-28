@@ -10,3 +10,10 @@ title = "LaTeX"
 -   [texlive.js – A LaTeX Compiler for Javascript](http://manuels.github.io/texlive.js/#running)
 -   [KaTeX: The fastest math typesetting library for the web](https://katex.org/)
 
+
+
+---
+## Backlinks
+* [Mathematics]({{< ref "Mathematics" >}})
+	* [LaTeX]({{< ref "LaTeX" >}})
+

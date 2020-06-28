@@ -6,8 +6,8 @@ title = "Org mode"
 Extension of [Emacs]({{< ref "Emacs" >}}).
 
 ## Articles
-
 -   [Consistent Technical Documents Using Emacs and Org Mode (YouTube)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
+-   [Drag images and files onto org-mode and insert a link to them](http://kitchingroup.cheme.cmu.edu/blog/2015/07/10/Drag-images-and-files-onto-org-mode-and-insert-a-link-to-them/)
 
 
 

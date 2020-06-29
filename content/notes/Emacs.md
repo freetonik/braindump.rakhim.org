@@ -36,8 +36,12 @@ title = "Emacs"
 	* [Org roam]({{< ref "Org roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
 * [LaTeX]({{< ref "LaTeX" >}})
 	* Probably the best way to write LaTeX is in [Emacs]({{< ref "Emacs" >}}) [Org mode]({{< ref "Org mode" >}}).
-* [History of LISP]({{< ref "History of LISP" >}})
-	* [Emacs Lisp]({{< ref "Emacs Lisp" >}}) (used in [Emacs]({{< ref "Emacs" >}}))
+* [Hugo]({{< ref "Hugo" >}})
+	* Hugo can be used with [Emacs]({{< ref "Emacs" >}}) via ox-hugo
 * [Static Website Generators]({{< ref "Static Website Generators" >}})
 	* A good way to use [Hugo]({{< ref "Hugo" >}}) is via [Emacs]({{< ref "Emacs" >}}) + [Org mode]({{< ref "Org mode" >}}) + [ox-hugo - Org to Hugo exporter](https://ox-hugo.scripter.co/).
+* [Common Lisp]({{< ref "Common Lisp" >}})
+	* [EmacsWiki: Common Lisp](https://www.emacswiki.org/emacs/CommonLisp) in the context of [Emacs]({{< ref "Emacs" >}}) (see also [Emacs Lisp]({{< ref "Emacs Lisp" >}}))
+* [History of LISP]({{< ref "History of LISP" >}})
+	* [Emacs Lisp]({{< ref "Emacs Lisp" >}}) (used in [Emacs]({{< ref "Emacs" >}}))
 

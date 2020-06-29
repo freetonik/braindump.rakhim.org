@@ -18,4 +18,6 @@ title = "Markdown"
 	* [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})
 	* [Roam](https://roamresearch.com/). Web. Closed source. Paid. Backlinks. [Markdown]({{< ref "Markdown" >}})
 	* [Notion](https://www.notion.so/). [Markdown]({{< ref "Markdown" >}})
+* [Hugo]({{< ref "Hugo" >}})
+	* [Markdown]({{< ref "Markdown" >}})
 

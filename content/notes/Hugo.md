@@ -3,7 +3,13 @@ title = "Hugo"
 +++
 
 
+>Hugo is one of the most popular open-source [Static Website Generators]({{< ref "Static Website Generators" >}}). With its amazing speed and flexibility, Hugo makes building websites fun again. / [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 
+- [Markdown]({{< ref "Markdown" >}})
+- Very fast and capable
+- I dislike the templating, API and confusing documentation
+- Has a history of braking changes with minor updates
+- Hugo can be used with [Emacs]({{< ref "Emacs" >}}) via ox-hugo
 
 ---
 ## Backlinks

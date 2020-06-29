@@ -21,10 +21,18 @@ title = "Emacs"
 ## Themes
 - [Fluc UI](https://github.com/MetroWind/flucui-theme)
 
+## Resources
+- [emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and others.](https://github.com/emacs-tw/awesome-emacs)
+
 ## Distributions
 - [Doom Emacs]({{< ref "Doom Emacs" >}})
 - Spacemacs
+- Centaur Emacs
+- Castlemacs
 
+## My stuff
+- [freetonik/emacs-dotfiles: My Emacs config](https://github.com/freetonik/emacs-dotfiles)
+- [Some org stuff removed from config](https://github.com/freetonik/emacs-dotfiles/commit/bd13fc9ff18fd9830db9c7cc3435891bf49dba4f)
 
 ---
 ## Backlinks

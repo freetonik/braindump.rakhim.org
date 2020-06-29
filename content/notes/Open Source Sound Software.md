@@ -1,5 +1,5 @@
 +++
-title = "Open Source Sound Software"
+title = "Open Source sound software"
 +++
 
 

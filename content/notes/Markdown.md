@@ -12,7 +12,7 @@ title = "Markdown"
 ## Backlinks
 * [Knowledge management]({{< ref "Knowledge management" >}})
 	* [Foam](https://foambubble.github.io/foam/). On top of VS Code. Backlinks, graph, [Markdown]({{< ref "Markdown" >}}).
-	* [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
+	* [Org roam]({{< ref "Org roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
 	* [Trillium](https://github.com/zadam/trilium). [Markdown]({{< ref "Markdown" >}}).
 	* [Zelltr](https://zettlr.com/). [Markdown]({{< ref "Markdown" >}}).
 	* [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})

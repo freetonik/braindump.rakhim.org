@@ -28,3 +28,9 @@ Electric symbols used in Finland for house construction plans ([Electric Circuit
 ![Electric-symbols-11](/notes/attachments/Electric-symbols-11.jpeg)
 
 ![Electric-symbols-12](/notes/attachments/Electric-symbols-12.jpeg)
+
+---
+## Backlinks
+* [Property in Finland]({{< ref "Property in Finland" >}})
+	* [Electric symbols in Finland]({{< ref "Electric symbols in Finland" >}})
+

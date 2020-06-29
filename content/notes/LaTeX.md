@@ -3,6 +3,8 @@ title = "LaTeX"
 +++
 
 
+Probably the best way to write LaTeX is in [Emacs]({{< ref "Emacs" >}}) [Org mode]({{< ref "Org mode" >}}).
+
 ## Useful Tools
 
 -   [Mathpix](https://mathpix.com/) (extracts LaTeX from PDFs)

@@ -21,12 +21,23 @@ title = "Emacs"
 ## Themes
 - [Fluc UI](https://github.com/MetroWind/flucui-theme)
 
+## Distributions
+- [Doom Emacs]({{< ref "Doom Emacs" >}})
+- Spacemacs
+
+
 ---
 ## Backlinks
 * [Org mode]({{< ref "Org mode" >}})
 	* Extension of [Emacs]({{< ref "Emacs" >}}).
-* [Knowledge management]({{< ref "Knowledge management" >}})
-	* [Org Roam]({{< ref "Org Roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
 * [Doom Emacs]({{< ref "Doom Emacs" >}})
-	* A distribution of [Emacs]({{< ref "Emacs" >}}) powered by Evil mode.
+	* A distribution of [Emacs]({{< ref "Emacs" >}}) powered by Evil mode with good default [Org mode]({{< ref "Org mode" >}}) setup.
+* [Knowledge management]({{< ref "Knowledge management" >}})
+	* [Org roam]({{< ref "Org roam" >}}). On top of [Emacs]({{< ref "Emacs" >}}) and [Org mode]({{< ref "Org mode" >}}). Backlinks, graph, [Markdown]({{< ref "Markdown" >}}) as well as Org support.
+* [LaTeX]({{< ref "LaTeX" >}})
+	* Probably the best way to write LaTeX is in [Emacs]({{< ref "Emacs" >}}) [Org mode]({{< ref "Org mode" >}}).
+* [History of LISP]({{< ref "History of LISP" >}})
+	* [Emacs Lisp]({{< ref "Emacs Lisp" >}}) (used in [Emacs]({{< ref "Emacs" >}}))
+* [Static Website Generators]({{< ref "Static Website Generators" >}})
+	* A good way to use [Hugo]({{< ref "Hugo" >}}) is via [Emacs]({{< ref "Emacs" >}}) + [Org mode]({{< ref "Org mode" >}}) + [ox-hugo - Org to Hugo exporter](https://ox-hugo.scripter.co/).
 

@@ -1,5 +1,5 @@
 +++
-title = "Open Source Image Editing Software"
+title = "Open Source image editing software"
 +++
 
 

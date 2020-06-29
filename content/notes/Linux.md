@@ -9,6 +9,6 @@ title = "Linux"
 
 ---
 ## Backlinks
-* [Open Source Sound Software]({{< ref "Open Source Sound Software" >}})
+* [Open Source sound software]({{< ref "Open Source sound software" >}})
 	* Audio recording and editing software for [Linux]({{< ref "Linux" >}}):
 

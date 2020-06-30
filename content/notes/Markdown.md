@@ -20,4 +20,6 @@ title = "Markdown"
 	* [Notion](https://www.notion.so/). [Markdown]({{< ref "Markdown" >}})
 * [Hugo]({{< ref "Hugo" >}})
 	* [Markdown]({{< ref "Markdown" >}})
+* [Pandoc]({{< ref "Pandoc" >}})
+	* Pandoc is a great text converter. A common use case for me is to covnert [Markdown]({{< ref "Markdown" >}}) to PDF or HTML. [Org mode]({{< ref "Org mode" >}}) can use Pandoc to convert Org files to PDF via [LaTeX]({{< ref "LaTeX" >}}).
 

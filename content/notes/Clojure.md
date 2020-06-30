@@ -5,6 +5,9 @@ title = "Clojure"
 
 A language that brings me joy.
 
+## Resources
+- [On the Perils of Dynamic Scope – Digital Digressions by Stuart Sierra](https://stuartsierra.com/2013/03/29/perils-of-dynamic-scope)
+
 ---
 ## Backlinks
 * [Clojure Macros]({{< ref "Clojure Macros" >}})

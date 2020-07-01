@@ -6,6 +6,8 @@ title = "Open Source image editing software"
 ## Diagrams
 - Dia https://wiki.gnome.org/Apps/Dia
 - Libre Office Draw https://www.libreoffice.org/discover/draw/
+- [jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
+	- [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
 
 ## Photo editing
 - Darktable https://www.darktable.org/install/

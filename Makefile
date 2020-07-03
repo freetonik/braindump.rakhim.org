@@ -8,7 +8,7 @@ copy:
 	@echo "Copying fresh files..."
 	cp -a ~/Dropbox/Brain/. ./content/notes
 	rm -rf ./content/notes/.obsidian
-	rm -rf ./content/journal
+	rm -rf ./content/notes/journal/
 	@echo "Done!"
 	@echo "-----"
 

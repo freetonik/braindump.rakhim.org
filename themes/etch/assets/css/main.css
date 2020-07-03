@@ -2,23 +2,28 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
-}
-
 body {
-  font-size: 16px;
-  font-size: 1.6rem;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: system-ui, Helvetica, Arial, sans-serif;
+  ext-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
   color: #313a3d;
   width: 100%;
   margin: 0 auto;
   padding: 0 16px;
-  line-height: 1.6;
+  line-height: 1.5;
+}
+
+a[href^="http"]::after {
+  content: " 🔗"
+}
+
+a[href^="https://braindump.rakhim.org"]::after, a[href^="http://localhost"]::after {
+  content: none;
 }
 
 header#banner {
   margin: 25px 0;
+  height: 5em;
 }
 
 header#banner a {
@@ -38,7 +43,7 @@ header#banner h2 {
 header#banner svg {
   height: 1.75em;
   width: 1.75em;
-  margin-right: 0.75em;
+  margin-right: 0.65em;
 }
 
 header#banner nav {
@@ -47,7 +52,6 @@ header#banner nav {
 
 header#banner nav ul {
   list-style-type: none;
-  font-size: 1.05em;
   text-transform: lowercase;
   margin: 0;
   padding: 0;
@@ -109,8 +113,6 @@ main#content hr {
 /* index.html styles */
 main#content ul#posts {
   list-style-type: none;
-  font-size: 16px;
-  font-size: 1.6rem;
   margin-top: 0;
   padding: 0;
 }
@@ -140,10 +142,8 @@ main#content ul#posts li a:hover small {
 
 /* single.html styles */
 main#content header#post-header h1 {
-  display: block;
-  font-size: 23px;
-  font-size: 2.3rem;
-  line-height: 1.15;
+  border-bottom: 1px solid #313a3d;;
+  padding-bottom: 0.45em;
 }
 
 main#content header#post-header time {
@@ -269,4 +269,13 @@ footer#footer {
   font-weight: 300;
   color: #949494;
   margin: 40px 0;
+}
+
+
+/* ------- */
+
+@media (min-width: 770px) {
+  body {
+    width: 700px;
+  }
 }

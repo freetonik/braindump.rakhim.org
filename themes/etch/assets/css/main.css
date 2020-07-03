@@ -264,8 +264,7 @@ main#content section.footnotes {
 }
 
 footer#footer {
-  font-size: 14px;
-  font-size: 1.4rem;
+  font-size: small;
   font-weight: 300;
   color: #949494;
   margin: 40px 0;

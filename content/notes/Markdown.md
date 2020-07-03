@@ -22,4 +22,6 @@ title = "Markdown"
 	* [Markdown]({{< ref "Markdown" >}})
 * [Pandoc]({{< ref "Pandoc" >}})
 	* Pandoc is a great text converter. A common use case for me is to covnert [Markdown]({{< ref "Markdown" >}}) to PDF or HTML. [Org mode]({{< ref "Org mode" >}}) can use Pandoc to convert Org files to PDF via [LaTeX]({{< ref "LaTeX" >}}).
+* [Text editing]({{< ref "Text editing" >}})
+	* must enable open formats, including [Markdown]({{< ref "Markdown" >}})
 

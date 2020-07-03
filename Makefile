@@ -8,6 +8,7 @@ copy:
 	@echo "Copying fresh files..."
 	cp -a ~/Dropbox/Brain/. ./content/notes
 	rm -rf ./content/notes/.obsidian
+	rm -rf ./content/journal
 	@echo "Done!"
 	@echo "-----"
 
@@ -37,4 +38,3 @@ publish: all
 
 all: clean copy heading backlinks wikilinks frontmatter
 	@echo "ALL DONE!"
-

@@ -52,4 +52,6 @@ title = "Emacs"
 	* [EmacsWiki: Common Lisp](https://www.emacswiki.org/emacs/CommonLisp) in the context of [Emacs]({{< ref "Emacs" >}}) (see also [Emacs Lisp]({{< ref "Emacs Lisp" >}}))
 * [History of LISP]({{< ref "History of LISP" >}})
 	* [Emacs Lisp]({{< ref "Emacs Lisp" >}}) (used in [Emacs]({{< ref "Emacs" >}}))
+* [Text editing]({{< ref "Text editing" >}})
+	* [Emacs]({{< ref "Emacs" >}})
 

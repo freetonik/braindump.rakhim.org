@@ -10,7 +10,7 @@ Ghost is a lightweight blogging CMS written in Node.js.
 
 Edit `/etc/nginx/nginx.conf`:
 
-```
+```nginx
 http {
      ...
      gzip on;
@@ -27,10 +27,10 @@ http {
 ```
 
 ## Enable caching
-```
+```nginx
 http {
      ...
-     proxy_cache_path /home/cache/ghost_cache levels=1:2 keys_zone=ghost_cache:60m max_size=300m inactive=24h;
+     proxy_cache_path /home/cache/ghost_cache levels=1:2    	keys_zone=ghost_cache:60m max_size=300m inactive=24h;
      proxy_cache_key "$scheme$request_method$host$request_uri";
      proxy_cache_methods GET HEAD;
      ...
@@ -41,7 +41,7 @@ http {
 ## Configure caching for Ghost site
 Edit `/etc/nginx/sites-available/my-site-ssl.conf`:
 
-```
+```nginx
 location / {
     proxy_cache ghost_cache;
     proxy_cache_valid 60m;
@@ -102,6 +102,5 @@ location ^~ /content/images/(!size) {
 -   [Caching Ghost with Nginx (Stanislas)](https://stanislas.blog/2019/08/ghost-nginx-cache/)
 
 # Theme development
-
 -   [Deploy theme via Github workflows](https://github.com/TryGhost/action-deploy-theme)
 

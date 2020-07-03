@@ -1,11 +1,15 @@
 baseURL = "https://braindump.rakhim.org/"
 languageCode = "en-us"
 title = "Rakhim's Braindump"
-theme = "cortex"
+theme = "etch"
+
+pygmentsCodeFences = true  # enable GitHub style code snippets
 
 [params]
-email = "contact@rakhim.org"
-# footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
+  email = "contact@rakhim.org"
+  description = "Rakhim's braindump"
+  copyright = "Copyright © 2020+ Rakhim Davletkaliyev "
+  highlight = true
 
 [markup]
   [markup.goldmark]

@@ -12,6 +12,7 @@ title = "Knowledge management"
 - [Zelltr](https://zettlr.com/). [Markdown]({{< ref "Markdown" >}}).
 - [Neuron Zettelkasten](https://neuron.zettel.page/) (future-proof open-source CLI app for managing your plain-text notes in Zettelkasten style, as well as for publishing them on the web.)
 - [tamlok/vnote: A note-taking application that knows programmers and Markdown better.](https://github.com/tamlok/vnote)
+- [FSNotes App – Modern notes manager for macOS and iOS](https://fsnot.es/)
 
 ### Proprietary
 - [Obsidian]({{< ref "Obsidian" >}}). [Markdown]({{< ref "Markdown" >}}), [Org mode]({{< ref "Org mode" >}})

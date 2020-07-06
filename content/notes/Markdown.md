@@ -7,6 +7,7 @@ title = "Markdown"
 - [Markdown Service Tools - BrettTerpstra.com](https://brettterpstra.com/projects/markdown-service-tools/)
 	- The Markdown Service Tools are a collection of OS X Services designed to make writing Markdown text that much easier. Services (also known as Quick Actions) work in any Cocoa-based application (which is most of the apps on your Mac). The Services are prefixed with “md” to keep them grouped in the Services menu that shows up when you right click in a text field or editor. You can assign your own keyboard shortcuts (see the last section of this document) to make accessing them more convenient.
 - [Marked 2 - Smarter tools for smarter writers](https://marked2app.com/)
+- [marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext)
 
 ---
 ## Backlinks

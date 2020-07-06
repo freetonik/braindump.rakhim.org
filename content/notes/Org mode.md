@@ -9,7 +9,8 @@ Extension of [Emacs]({{< ref "Emacs" >}}).
 -   [Consistent Technical Documents Using Emacs and Org Mode (YouTube)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
 -   [Drag images and files onto org-mode and insert a link to them](http://kitchingroup.cheme.cmu.edu/blog/2015/07/10/Drag-images-and-files-onto-org-mode-and-insert-a-link-to-them/)
 
-
+## Tips and tweaks
+- [org mode - after org-capture, how to go to the content that I saved? - Emacs Stack Exchange](https://emacs.stackexchange.com/questions/46661/after-org-capture-how-to-go-to-the-content-that-i-saved)
 
 ---
 ## Backlinks

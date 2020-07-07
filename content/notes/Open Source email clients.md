@@ -3,6 +3,8 @@ title = "Open Source email clients"
 +++
 
 
+Usually, these work best in [Linux]({{< ref "Linux" >}}).
+
 ## Terminal based
 - https://aerc-mail.org/
 - mu / mu4e

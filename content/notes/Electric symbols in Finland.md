@@ -3,7 +3,7 @@ title = "Electric symbols in Finland"
 +++
 
 
-Electric symbols used in Finland for house construction plans ([Electric Circuits]({{< ref "Electric Circuits" >}})).
+Electric symbols used in [Finland]({{< ref "Finland" >}}) for house construction plans ([Electric Circuits]({{< ref "Electric Circuits" >}})).
 
 ![Electric-symbols-1](/notes/attachments/Electric-symbols-1.jpeg)
 

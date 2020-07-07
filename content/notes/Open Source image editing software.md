@@ -3,6 +3,8 @@ title = "Open Source image editing software"
 +++
 
 
+Usually, these work best in [Linux]({{< ref "Linux" >}}).
+
 ## Diagrams
 - Dia https://wiki.gnome.org/Apps/Dia
 - Libre Office Draw https://www.libreoffice.org/discover/draw/

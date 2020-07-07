@@ -11,5 +11,5 @@ title = "Electric Circuits"
 ---
 ## Backlinks
 * [Electric symbols in Finland]({{< ref "Electric symbols in Finland" >}})
-	* Electric symbols used in Finland for house construction plans ([Electric Circuits]({{< ref "Electric Circuits" >}})).
+	* Electric symbols used in [Finland]({{< ref "Finland" >}}) for house construction plans ([Electric Circuits]({{< ref "Electric Circuits" >}})).
 

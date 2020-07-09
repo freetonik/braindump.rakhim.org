@@ -31,10 +31,13 @@ frontmatter:
 	@echo "Done!"
 	@echo "-----"
 
+build:
+	hugo
+
 publish: all
 	./bin/publish.sh
 	@echo "Done!"
 	@echo "-----"
 
-all: clean copy heading backlinks wikilinks frontmatter
+all: clean copy heading backlinks wikilinks frontmatter build
 	@echo "ALL DONE!"

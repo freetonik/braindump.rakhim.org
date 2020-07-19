@@ -17,4 +17,6 @@ title = "Linux"
 	* Usually, these work best in [Linux]({{< ref "Linux" >}}).
 * [Open Source sound software]({{< ref "Open Source sound software" >}})
 	* Audio recording and editing software for [Linux]({{< ref "Linux" >}}):
+* [xmodmap]({{< ref "xmodmap" >}})
+	* How to customize keyboard modifier keys in X (e.g. xorg) under [Linux]({{< ref "Linux" >}}) or [OpenBSD]({{< ref "OpenBSD" >}}).
 

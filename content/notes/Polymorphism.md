@@ -24,3 +24,9 @@ There are three major types of polymorphism:
 - [Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True](https://www.braveclojure.com/multimethods-records-protocols/)
 - [Clojure - Multimethods and Hierarchies](https://clojure.org/reference/multimethods)
 - [Clojure - Protocols](https://clojure.org/reference/protocols)
+
+---
+## Backlinks
+* [The Expression Problem]({{< ref "The Expression Problem" >}})
+	* The problem related to [Polymorphism]({{< ref "Polymorphism" >}}) known as “The Expression Problem” was first observed by John Reynolds in 1975. Philip Wadler, an American computer scientist known for his contributions to programming language design and type theory, has coined and explained the term as follows:
+

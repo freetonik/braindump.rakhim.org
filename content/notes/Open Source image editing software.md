@@ -18,6 +18,8 @@ Usually, these work best in [Linux]({{< ref "Linux" >}}).
 - Krita https://krita.org/en/
 	- Good tutorial https://www.youtube.com/watch?v=TH2EDTNjvBw
 - GIMP https://www.gimp.org/
+- [GrafX2 - The ultimate 256-color painting program](http://grafx2.chez.com/)
+- [Xpaint - Free Software Directory](https://directory.fsf.org/wiki/Xpaint)
 
 ## Vector graphics
 - Inkscape https://inkscape.org/

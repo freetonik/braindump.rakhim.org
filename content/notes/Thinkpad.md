@@ -3,6 +3,8 @@ title = "Thinkpad"
 +++
 
 
+A good, serviceable laptop with excellent [Linux]({{< ref "Linux" >}}) support. [OpenBSD]({{< ref "OpenBSD" >}}) also works perfectly fine on it. 
+
 ## Resources
 - [Used ThinkPad Buyer's Guide](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
 

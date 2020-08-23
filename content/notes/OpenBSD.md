@@ -112,6 +112,10 @@ Most vars have one of 3 values:
 ## Backlinks
 * [OpenBSD initial setup]({{< ref "OpenBSD initial setup" >}})
 	* A few essential steps after a fresh install of [OpenBSD]({{< ref "OpenBSD" >}}):
+* [OpenBSD troubleshooting]({{< ref "OpenBSD troubleshooting" >}})
+	* Fix problems in [OpenBSD]({{< ref "OpenBSD" >}}).
+* [Thinkpad]({{< ref "Thinkpad" >}})
+	* A good, serviceable laptop with excellent [Linux]({{< ref "Linux" >}}) support. [OpenBSD]({{< ref "OpenBSD" >}}) also works perfectly fine on it. 
 * [xmodmap]({{< ref "xmodmap" >}})
 	* How to customize keyboard modifier keys in X (e.g. xorg) under [Linux]({{< ref "Linux" >}}) or [OpenBSD]({{< ref "OpenBSD" >}}).
 

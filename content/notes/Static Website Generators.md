@@ -20,6 +20,7 @@ title = "Static Website Generators"
 	- pretty
 	- no permalink for separate image in defaul themes
 - [lazygal - Static web gallery generator](https://sml.zincube.net/~niol/repositories.git/lazygal/about/)
+- [QAlbum](https://www.gnu.org/software/qexo/qalbum/) (pretty unusual stuff)
 
 ---
 ## Backlinks

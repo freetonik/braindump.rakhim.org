@@ -3,6 +3,8 @@ title = "OpenBSD troubleshooting"
 +++
 
 
+Fix problems in [OpenBSD]({{< ref "OpenBSD" >}}).
+
 ## Single user mode
 To boot into single user mode, run this athe initial timeout prompt:
 
